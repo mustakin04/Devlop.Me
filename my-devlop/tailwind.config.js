@@ -8,6 +8,7 @@ export default {
       },
       backgroundImage: {
         "hero": "url('./src/assets/bg.png')",
+        "hero1": "url('./src/assets/bgyellow.png')",
       },
        rotate: {
          'rotate-x-180': 'rotateX(180deg)'
