@@ -6,7 +6,7 @@ import { FaTwitter } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
 const Banner = () => {
   return (
-    <div className="bg-hero bg-cover bg-center h-screen w-full  py-[130px]">
+    <div className="relative bg-hero bg-cover bg-center h-screen w-full  py-[150px]">
       <Container>
         <div>
           <h1 className="w-[908px] font-sans font-bold text-[78px] text-black  ">

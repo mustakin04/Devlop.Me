@@ -6,8 +6,8 @@ import Button from "../Button/Button";
 
 const Navbar = () => {
   return (
-    <div>
-      <Container>
+    <div className="absolute w-full py-[14px]" >
+      <Container >
         <div className="flex items-center">
           <div className="w-[20%]">
             <img src={logo} alt="" />
